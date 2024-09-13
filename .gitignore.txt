@@ -1,0 +1,16 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+
+# Ignore sensitive files
+wp-config.php
+
+# Ignore XAMPP specific files
+/xampp/
+/tmp/
+
+# Ignore other unnecessary files
+*.log
+*.sql
+*.zip
+.DS_Store
